@@ -1,0 +1,91 @@
+/* Fonts */ 
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;600&display=swap');
+
+/* css */
+body {
+  font-family: "Source Sans Pro",sans-serif;
+  background-color: rgb(20,20,20);
+  color: white;
+}
+hr {
+  background-color: rgb(30,30,30);
+  border-color: transparent;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  width: 80%;
+  height: 2px;
+}
+p {
+  font-size: 1.15rem;
+}
+.center {
+	text-align: center;
+}
+.div-center {
+	display: flex;
+	justify-content: center;
+}
+.bold {
+	font-weight: 600 !important;
+}
+.no-deco {
+	text-decoration: none;
+	list-style: none;
+}
+.tablinklist {
+	overflow: hidden;
+  white-space: nowrap;
+	padding: 0;
+	margin: 0 auto;
+}
+.titlename {
+  font-size: 2.5rem;
+}
+/*.title {
+	font-size: 3rem;
+	font-weight: 200;
+}*/
+.paragraph {
+	font-size: 0.6rem;
+	font-weight: 300;
+}
+.contentlink {
+	font-size: 1.25rem;
+	font-weight: 300;
+  color: white;
+  line-height: .75;
+}
+.inlinelink {
+	font-weight: 300;
+  color: white;
+  line-height: .75;
+}
+.topbit {
+  margin-left: 5%;
+}
+
+/* COLUMNS */
+.threecolumn {
+  float: left;
+  width: 33.33%;
+}
+.fivecolumn {
+  float: left;
+  width: 20%; 
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+/* Responsive layout - when the screen is less than 600px wide, make the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .threecolumn {
+    width: 100%;
+  }
+  .fivecolumn {
+    width: 100%;
+  }
+}

@@ -1,0 +1,24 @@
+Student Links:
+  schoology: https://districtlms.seattleschools.org/
+  the source: https://ps.seattleschools.org/public/
+  office: https://www.office.com/?auth=2
+  email: https://outlook.office365.com/mail/inbox
+  clever: https://clever.com/in/seattleschools/student/portal
+  health screening: https://seattlepsb2s.qualtrics.com/jfe/form/SV_1MJ02N2Lv2lT5P0?Q_CHL
+  
+Teacher Links:
+  schoology: https://districtlms.seattleschools.org/
+  the source: https://ps.seattleschools.org/public/
+  office: https://www.office.com/?auth=2
+  email: https://outlook.office365.com/mail/inbox
+  mySPS: https://mysps.seattleschools.org/
+  teacher portal: https://clever.com/in/seattleschools
+  other resources: https://www.seattleschools.org/cms/One.aspx?portalId=627&pageId=648
+
+Parent Links:
+  schoology: https://districtlms.seattleschools.org/
+  the source: https://ps.seattleschools.org/public/
+  pay fees: https://www.schoolpay.com/parent/payments/general
+  communication preferances: https://www.seattleschools.org/cms/One.aspx?portalId=627&pageId=26610700
+  health screening: https://seattlepsb2s.qualtrics.com/jfe/form/SV_1MJ02N2Lv2lT5P0?Q_CHL
+  other resources: https://www.seattleschools.org/cms/One.aspx?portalId=627&pageId=645
