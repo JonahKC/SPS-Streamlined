@@ -15,6 +15,22 @@ hr {
   width: 80%;
   height: 2px;
 }
+img {
+  user-draggable: none; 
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
+.clearhr {
+  background-color: transparent;
+  border-color: transparent;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 80%;
+  height: 2px;
+}
 p {
   font-size: 1.15rem;
 }
@@ -39,7 +55,10 @@ p {
 	margin: 0 auto;
 }
 .titlename {
+  text-decoration: none;
   font-size: 2.5rem;
+  color: white !important;
+
 }
 /*.title {
 	font-size: 3rem;
@@ -56,12 +75,12 @@ p {
   line-height: .75;
 }
 .inlinelink {
-	font-weight: 300;
   color: white;
   line-height: .75;
 }
 .topbit {
-  margin-left: 5%;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 /* COLUMNS */
